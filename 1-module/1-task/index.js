@@ -12,7 +12,7 @@ let number = m;
        return number;
 }
  
-       let m = prompt("base", '');
+ let m = prompt("base", '');
  let n = prompt("exponent", '');
 
   if (n <= 1) {
